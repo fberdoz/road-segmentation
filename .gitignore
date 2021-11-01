@@ -1,0 +1,25 @@
+# MacOs
+.DS_Store
+
+# Project specific
+.png
+.zip
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook
+*.ipynb_checkpoints
+
+
+# Latex files
+*.aux
+*.bbl
+*.blg
+*.log
+*.gz
